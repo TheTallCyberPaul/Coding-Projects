@@ -1,4 +1,4 @@
-# Paul Christiansen
+# Paul 
 #
 # This is a chore sorting program! I made in part for myself and for this assignemt. 
 # It was made as I struggle with keeping track of stuff to do so this uses all the 
